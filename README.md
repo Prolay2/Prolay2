@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prolay2
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c++ as my first language
+- 🌱 I’m currently learning c as my first language
 
 <!---
 Prolay2/Prolay2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
